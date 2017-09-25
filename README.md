@@ -1,5 +1,6 @@
-# ext-ionic
-ionic2 扩展库
+# ionic2-ext
 
-# 文档
-https://github.com/squallliu/ext-ionic/wiki
+ionic2扩展库，A ionic2 extension
+
+## 文档
+https://github.com/zwq8299174/ionic2-ext/wiki
