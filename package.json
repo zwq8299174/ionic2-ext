@@ -1,6 +1,6 @@
 {
   "name": "ionic-ext",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "zwq8299174",
   "description": "ionic2扩展库，A ionic2 extension",
   "main": "dist/index.js",
