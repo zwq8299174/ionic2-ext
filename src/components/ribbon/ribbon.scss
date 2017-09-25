@@ -1,0 +1,19 @@
+.ribbon-bar {
+  position: relative;
+}
+
+.ribbon-bar>.triangle {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.ribbon-bar>.ribbon-text-box {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: rotate(45deg);
+  color: white;
+  right: -8px;
+}
